@@ -21,3 +21,5 @@ else:
 
 - `argv` is a list that contains command-line arguments.
 - Use `sys.argv[1]` to access the first argument.
+
+That's the end of week 6 ^^
