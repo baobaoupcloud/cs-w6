@@ -20,3 +20,5 @@ else:
 
 - `argv` là danh sách chứa các đối số dòng lệnh.
 - Sử dụng `sys.argv[1]` để truy cập đối số đầu tiên.
+
+Vậy là hết tuần 6 ^^
